@@ -1,2 +1,2 @@
-# devweekgit.hub.io
+# devweek.github.io
 Curriculo 
